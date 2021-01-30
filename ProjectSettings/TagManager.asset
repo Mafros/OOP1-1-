@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Controls
+  - QuadMaps
+  - Map
+  - SphereCMTQ
+  - PanelControl
+  - GhostPlace
+  - HpAgent
+  - Enemy
+  - EControls
+  - HpAgentE
+  - CapObstacle
+  - Obstacles
+  - InteractBut
+  - IntegrationsObj
+  - TriggerRangeOfView
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - BoxAvoid
+  - Enemy
+  - Obstacle
+  - IgnoreClick
+  - Fog
+  - ShotThrouhgt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
